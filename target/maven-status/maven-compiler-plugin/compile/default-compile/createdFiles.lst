@@ -1,0 +1,7 @@
+com\amazon\pages\Login_page.class
+com\amazon\qa\testbase\BaseSetup.class
+com\amazon\qa\setup\Appium_Server_Status.class
+com\amazon\pages\Skip_Sign_in.class
+com\amazon\qa\config\Constant.class
+com\amazon\qa\setup\AppiumServerJava.class
+com\amazon\qa\testbase\TestBase.class

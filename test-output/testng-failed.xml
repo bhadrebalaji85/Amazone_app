@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suit for different program]">
+  <test thread-count="5" name="Elements of Selenium(failed)">
+    <classes>
+      <class name="com.amazon.qa.testcases.Login_Test">
+        <methods>
+          <include name="Loginto_Amazone_test"/>
+          <include name="close_App"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.amazon.qa.testcases.Login_Test -->
+    </classes>
+  </test> <!-- Elements of Selenium(failed) -->
+</suite> <!-- Failed suite [Suit for different program] -->
